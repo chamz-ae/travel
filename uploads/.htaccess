@@ -1,0 +1,18 @@
+# Matikan eksekusi script PHP di direktori uploads
+<FilesMatch "\.(php|phtml|php3|php4|php5|php7|phps|pl|py|jsp|asp|sh|cgi|exe)$">
+    Require all denied
+</FilesMatch>
+
+# Nonaktifkan engine PHP jika didukung modul server
+<IfModule mod_php.c>
+    php_flag engine off
+</IfModule>
+<IfModule mod_php7.c>
+    php_flag engine off
+</IfModule>
+<IfModule mod_php8.c>
+    php_flag engine off
+</IfModule>
+
+# Larang directory indexing
+Options -Indexes -ExecCGI

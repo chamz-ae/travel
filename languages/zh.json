@@ -1,0 +1,44 @@
+{
+  "nav": {
+    "home": "首页",
+    "services": "服务项目",
+    "packages": "旅游套餐",
+    "fleet": "车队展示",
+    "articles": "旅行指南",
+    "about": "关于我们",
+    "contact": "联系我们",
+    "book_now": "立即预订"
+  },
+  "hero": {
+    "tagline": "尊享交通与定制旅行",
+    "headline": "尽享日惹高品质舒适出行体验",
+    "subheadline": "保养完善的高端车队，经验丰富的专业本地司机，为您提供准时无忧的包车与旅游服务。",
+    "cta_primary": "立即预订",
+    "cta_secondary": "探索行程"
+  },
+  "trust": {
+    "clean_fleet_title": "整洁舒适车队",
+    "clean_fleet_desc": "定期维护保养，冷气充足，车内干净清爽。",
+    "driver_title": "专业合规司机",
+    "driver_desc": "礼貌守时，熟悉日惹历史文化与热门路线。",
+    "transparency_title": "价格透明公道",
+    "transparency_desc": "明码标价，无任何隐形消费。"
+  },
+  "forms": {
+    "full_name": "您的姓名",
+    "email": "电子邮箱",
+    "phone": "WhatsApp / 联系电话",
+    "service_select": "选择服务类型",
+    "pickup_date": "出发日期",
+    "pickup_time": "接送时间",
+    "duration_days": "租车天数",
+    "pickup_location": "接送地点 (酒店或机场)",
+    "notes": "特别要求 / 目的地备注",
+    "submit_booking": "提交预订申请",
+    "submit_message": "发送留言"
+  },
+  "footer": {
+    "about_text": "日惹专业高端包车与定制旅游服务，为您提供安全、便捷与贴心的印尼旅程。",
+    "copyright": "版权所有。"
+  }
+}

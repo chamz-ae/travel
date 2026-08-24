@@ -1,0 +1,44 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "services": "Services",
+    "packages": "Circuits & Tours",
+    "fleet": "Notre Flotte",
+    "articles": "Guide de Voyage",
+    "about": "À Propos",
+    "contact": "Contact",
+    "book_now": "Réserver"
+  },
+  "hero": {
+    "tagline": "Transport & Hospitalité Haut de Gamme",
+    "headline": "Explorez Yogyakarta avec un Confort Inégalé",
+    "subheadline": "Véhicules privés impeccables, chauffeurs locaux professionnels et ponctualité exemplaire pour vos vacances et déplacements.",
+    "cta_primary": "Réserver un Trajet",
+    "cta_secondary": "Voir les Circuits"
+  },
+  "trust": {
+    "clean_fleet_title": "Flotte Impeccable",
+    "clean_fleet_desc": "Véhicules entretenus avec soin et climatisation optimale.",
+    "driver_title": "Chauffeurs Professionnels",
+    "driver_desc": "Courtois, ponctuels et connaissant parfaitement la région.",
+    "transparency_title": "Tarifs Transparents",
+    "transparency_desc": "Prix clairs et fixes sans aucun frais caché."
+  },
+  "forms": {
+    "full_name": "Nom Complet",
+    "email": "Adresse Email",
+    "phone": "Numéro WhatsApp / Téléphone",
+    "service_select": "Sélectionner un Service",
+    "pickup_date": "Date de Prise en Charge",
+    "pickup_time": "Heure de Prise en Charge",
+    "duration_days": "Durée (Jours)",
+    "pickup_location": "Lieu de Prise en Charge (Hôtel/Aéroport)",
+    "notes": "Demandes Particulières",
+    "submit_booking": "Envoyer la Demande de Réservation",
+    "submit_message": "Envoyer le Message"
+  },
+  "footer": {
+    "about_text": "Services de transport privé et excursions sur mesure à Yogyakarta alliant sécurité et confort.",
+    "copyright": "Tous droits réservés."
+  }
+}

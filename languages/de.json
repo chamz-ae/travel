@@ -1,0 +1,44 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "services": "Dienstleistungen",
+    "packages": "Tour-Pakete",
+    "fleet": "Fahrzeugflotte",
+    "articles": "Reiseführer",
+    "about": "Über Uns",
+    "contact": "Kontakt",
+    "book_now": "Jetzt Buchen"
+  },
+  "hero": {
+    "tagline": "Premium Transport & Gastfreundschaft",
+    "headline": "Entdecken Sie Yogyakarta mit höchstem Komfort",
+    "subheadline": "Gepflegte Privatfahrzeuge, erfahrene Fahrer und garantierte Pünktlichkeit für Ihren Urlaub oder Ihre Geschäftsreise.",
+    "cta_primary": "Fahrt Buchen",
+    "cta_secondary": "Touren Entdecken"
+  },
+  "trust": {
+    "clean_fleet_title": "Gepflegte Flotte",
+    "clean_fleet_desc": "Regelmäßig gewartete Autos mit einwandfreier Klimaanlage.",
+    "driver_title": "Erfahrene Fahrer",
+    "driver_desc": "Höflich, pünktlich und bestens vertraut mit den besten Routen.",
+    "transparency_title": "Transparente Preise",
+    "transparency_desc": "Klare Festpreise ohne versteckte Zusatzkosten."
+  },
+  "forms": {
+    "full_name": "Vollständiger Name",
+    "email": "E-Mail-Adresse",
+    "phone": "WhatsApp / Telefonnummer",
+    "service_select": "Dienstleistung Wählen",
+    "pickup_date": "Abholdatum",
+    "pickup_time": "Abholzeit",
+    "duration_days": "Dauer (Tage)",
+    "pickup_location": "Abholort (Hotel/Flughafen)",
+    "notes": "Besondere Wünsche",
+    "submit_booking": "Buchungsanfrage Senden",
+    "submit_message": "Nachricht Senden"
+  },
+  "footer": {
+    "about_text": "Individuelle Transportdienste und geführte Touren in Yogyakarta mit persönlichem Service.",
+    "copyright": "Alle Rechte vorbehalten."
+  }
+}

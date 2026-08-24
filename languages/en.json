@@ -1,0 +1,71 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "packages": "Tour Packages",
+    "fleet": "Fleet",
+    "articles": "Travel Guide",
+    "about": "About Us",
+    "contact": "Contact",
+    "book_now": "Book Now"
+  },
+  "hero": {
+    "tagline": "Boutique Transport & Local Hospitality",
+    "headline": "Explore Yogyakarta with Uncompromised Comfort",
+    "subheadline": "Immaculate private fleet, courteous English-speaking drivers, and punctual transfers tailored for bespoke holidays and executive travel.",
+    "cta_primary": "Book a Trip",
+    "cta_secondary": "Explore Tours"
+  },
+  "trust": {
+    "badge1_title": "Pristine Vehicles",
+    "badge1_desc": "Regularly serviced cars, fresh interior air, and optimal air conditioning.",
+    "badge2_title": "Professional Drivers",
+    "badge2_desc": "Courteous, punctual, honest, and knowledgeable about local heritage.",
+    "badge3_title": "Transparent Pricing",
+    "badge3_desc": "Guaranteed all-inclusive rates with zero hidden surcharges."
+  },
+  "sections": {
+    "services_tag": "Selected Services",
+    "services_title": "Private Transport & Airport Transfers",
+    "services_sub": "Flexible transportation solutions designed for your needs in Yogyakarta.",
+    "why_tag": "Hospitality Standard",
+    "why_title": "Why Choose Tiranda Jogja?",
+    "why_desc": "We combine modern luxury vehicles with warm Javanese hospitality to ensure peace of mind and memorable travels throughout your stay.",
+    "packages_tag": "Curated Tour Packages",
+    "packages_title": "Discover the Heritage & Wonders of Jogja",
+    "packages_sub": "Well-crafted itineraries covering iconic cultural and nature landmarks.",
+    "gallery_tag": "Visual Journey",
+    "gallery_title": "Real Moments & Fleet Documentation",
+    "fleet_tag": "Our Fleet",
+    "fleet_title": "Comfortable Vehicles for Every Journey",
+    "fleet_sub": "From 5-seater family MPVs to spacious 14-seater luxury vans.",
+    "articles_tag": "Travel Insights",
+    "articles_title": "Essential Yogyakarta Guides & Tips",
+    "cta_title": "Ready to Plan Your Yogyakarta Journey?",
+    "cta_sub": "Consult your customized itinerary and vehicle preferences with our specialists today."
+  },
+  "btn": {
+    "detail": "View Details",
+    "book_this": "Book Service",
+    "itinerary": "View Itinerary",
+    "read_more": "Read Full Story",
+    "view_all_services": "Explore All Services",
+    "view_all_packages": "Explore All Packages",
+    "view_all_fleet": "View Complete Fleet",
+    "view_all_articles": "Read All Guides",
+    "view_all_gallery": "View Full Gallery",
+    "chat_wa": "Chat via WhatsApp"
+  },
+  "fleet_spec": {
+    "seats": "Seats",
+    "luggage": "Luggage",
+    "with_driver": "With Driver & Fuel"
+  },
+  "footer": {
+    "tagline": "World-Class Hospitality, Luxury Transportation & Bespoke Travel Experiences in Yogyakarta.",
+    "quick_links": "Quick Links",
+    "services_title": "Top Services",
+    "contact_title": "Office & Operations",
+    "copyright": "All rights reserved."
+  }
+}

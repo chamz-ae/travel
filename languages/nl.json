@@ -1,0 +1,44 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Diensten",
+    "packages": "Tour Pakketten",
+    "fleet": "Wagenpark",
+    "articles": "Reisgids",
+    "about": "Over Ons",
+    "contact": "Contact",
+    "book_now": "Nu Reserveren"
+  },
+  "hero": {
+    "tagline": "Premium Vervoer & Gastvrijheid",
+    "headline": "Ontdek Yogyakarta in Alle Rust en Comfort",
+    "subheadline": "Uitstekend onderhouden privéchauffeursdiensten, stipte transfers en op maat gemaakte tours in en rondom Jogja.",
+    "cta_primary": "Reserveer Nu",
+    "cta_secondary": "Bekijk Tours"
+  },
+  "trust": {
+    "clean_fleet_title": "Schoon & Verzorgd Wagenpark",
+    "clean_fleet_desc": "Regelmatig gekeurde voertuigen met uitstekende airconditioning.",
+    "driver_title": "Ervaren Chauffeurs",
+    "driver_desc": "Vriendelijk, stipt en bekend met alle historische bezienswaardigheden.",
+    "transparency_title": "Transparante Tarieven",
+    "transparency_desc": "Vaste all-in prijzen zonder verrassingen achteraf."
+  },
+  "forms": {
+    "full_name": "Volledige Naam",
+    "email": "E-mailadres",
+    "phone": "WhatsApp / Telefoonnummer",
+    "service_select": "Kies een Dienst",
+    "pickup_date": "Ophaaldatum",
+    "pickup_time": "Ophaaltijd",
+    "duration_days": "Duur (Dagen)",
+    "pickup_location": "Ophaallocatie (Hotel/Luchthaven)",
+    "notes": "Speciale Verzoeken",
+    "submit_booking": "Verstuur Reserveringsaanvraag",
+    "submit_message": "Verstuur Bericht"
+  },
+  "footer": {
+    "about_text": "Betrouwbaar privévervoer en inspirerende tours in Yogyakarta met focus op kwaliteit en veiligheid.",
+    "copyright": "Alle rechten voorbehouden."
+  }
+}

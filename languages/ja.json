@@ -1,0 +1,44 @@
+{
+  "nav": {
+    "home": "ホーム",
+    "services": "サービス",
+    "packages": "ツアーパッケージ",
+    "fleet": "車両一覧",
+    "articles": "観光ガイド",
+    "about": "会社概要",
+    "contact": "お問い合わせ",
+    "book_now": "今すぐ予約"
+  },
+  "hero": {
+    "tagline": "プレミアム送迎＆ホスピタリティ",
+    "headline": "ジョグジャカルタを快適かつ安心に巡る旅",
+    "subheadline": "清潔で整備の行き届いた専用車と、親切で経験豊富な専属ドライバーが特別な旅をお届けします。",
+    "cta_primary": "予約する",
+    "cta_secondary": "ツアーを見る"
+  },
+  "trust": {
+    "clean_fleet_title": "清潔で安全な車両",
+    "clean_fleet_desc": "定期点検済み、快適なエアコン完備の綺麗な車内。",
+    "driver_title": "プロフェッショナルな運転手",
+    "driver_desc": "礼儀正しく時間を厳守し、地元ルートを熟知。",
+    "transparency_title": "明瞭な料金体系",
+    "transparency_desc": "追加の隠れ費用なしの明確なプライシング。"
+  },
+  "forms": {
+    "full_name": "お名前",
+    "email": "メールアドレス",
+    "phone": "WhatsApp / お電話番号",
+    "service_select": "サービスを選択",
+    "pickup_date": "ご利用開始日",
+    "pickup_time": "お迎え時間",
+    "duration_days": "ご利用日数",
+    "pickup_location": "お迎え場所 (ホテル/空港)",
+    "notes": "ご要望・特記事項",
+    "submit_booking": "予約リクエストを送信",
+    "submit_message": "メッセージを送信"
+  },
+  "footer": {
+    "about_text": "ジョグジャカルタの専用車チャーター及びオーダーメイドツアーをご提供いたします。",
+    "copyright": "無断転載を禁じます。"
+  }
+}

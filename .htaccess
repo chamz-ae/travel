@@ -1,0 +1,30 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    # 1. Proteksi file sistem sensitif
+    <FilesMatch "\.(env|sql|log|ini|json|lock|bak|config)$">
+        Require all denied
+    </FilesMatch>
+
+    # 2. Security Headers
+    <IfModule mod_headers.c>
+        Header set X-Content-Type-Options "nosniff"
+        Header set X-Frame-Options "SAMEORIGIN"
+        Header set X-XSS-Protection "1; mode=block"
+        Header set Referrer-Policy "strict-origin-when-cross-origin"
+    </IfModule>
+
+    # 3. Canonical: Hapus trailing index.php
+    RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s(.*)/index\.php [NC]
+    RewriteRule ^ %1/ [R=301,L]
+
+    # 4. Bypass akses fisik file/folder yang valid
+    RewriteCond %{REQUEST_FILENAME} -f [OR]
+    RewriteCond %{REQUEST_FILENAME} -d
+    RewriteRule ^ - [L]
+
+    # 5. Front Controller Router
+    RewriteRule ^(.*)$ index.php [QSA,L]
+</IfModule>
+
+Options -Indexes

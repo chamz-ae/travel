@@ -1,0 +1,71 @@
+{
+  "nav": {
+    "home": "Beranda",
+    "services": "Layanan",
+    "packages": "Paket Tour",
+    "fleet": "Armada",
+    "articles": "Panduan",
+    "about": "Tentang Kami",
+    "contact": "Kontak",
+    "book_now": "Reservasi Sekarang"
+  },
+  "hero": {
+    "tagline": "Boutique Transport & Local Hospitality",
+    "headline": "Eksplorasi Yogyakarta dengan Standar Kenyamanan Tertinggi",
+    "subheadline": "Armada prima terawat, driver profesional beretika santun, dan komitmen ketepatan waktu untuk perjalanan wisata maupun agenda bisnis Anda.",
+    "cta_primary": "Mulai Reservasi",
+    "cta_secondary": "Lihat Paket Tour"
+  },
+  "trust": {
+    "badge1_title": "Armada Bersih & Prima",
+    "badge1_desc": "Unit terawat berkala, AC dingin, dan standar kebersihan kabin tinggi.",
+    "badge2_title": "Driver Profesional",
+    "badge2_desc": "Sopan, tepat waktu, jujur, dan memahami rute wisata lokal Jogja.",
+    "badge3_title": "Transparansi Tarif",
+    "badge3_desc": "Harga pasti dan transparan tanpa biaya tersembunyi."
+  },
+  "sections": {
+    "services_tag": "Layanan Pilihan",
+    "services_title": "Solusi Transportasi & Antar Jemput",
+    "services_sub": "Pilihan layanan fleksibel untuk kebutuhan perjalanan Anda di Yogyakarta.",
+    "why_tag": "Standar Pelayanan",
+    "why_title": "Mengapa Memilih Tiranda Jogja?",
+    "why_desc": "Kami memadukan armada kendaraan modern dengan keramahan khas Yogyakarta untuk menjamin ketenangan dan kenyamanan penuh di setiap perjalanan.",
+    "packages_tag": "Paket Wisata Terkurasi",
+    "packages_title": "Jelajahi Pesona Budaya & Alam Jogja",
+    "packages_sub": "Rencana perjalanan terstruktur mengunjungi destinasi ikonik Yogyakarta.",
+    "gallery_tag": "Dokumentasi Perjalanan",
+    "gallery_title": "Momen Nyata Bersama Tamu Kami",
+    "fleet_tag": "Pilihan Kendaraan",
+    "fleet_title": "Armada Nyaman untuk Setiap Kebutuhan",
+    "fleet_sub": "Unit berkapasitas 5 hingga 14 penumpang dengan performa mesin prima.",
+    "articles_tag": "Wawasan Perjalanan",
+    "articles_title": "Panduan & Tips Wisata Yogyakarta",
+    "cta_title": "Siap Merencanakan Perjalanan Istimewa Anda?",
+    "cta_sub": "Konsultasikan rute, durasi trip, dan pemilihan mobil bersama tim konsultan kami sekarang."
+  },
+  "btn": {
+    "detail": "Lihat Detail",
+    "book_this": "Pesan Layanan",
+    "itinerary": "Lihat Itinerary",
+    "read_more": "Baca Selengkapnya",
+    "view_all_services": "Lihat Semua Layanan",
+    "view_all_packages": "Lihat Semua Paket",
+    "view_all_fleet": "Lihat Semua Armada",
+    "view_all_articles": "Lihat Semua Artikel",
+    "view_all_gallery": "Lihat Galeri Lengkap",
+    "chat_wa": "Konsultasi via WhatsApp"
+  },
+  "fleet_spec": {
+    "seats": "Kursi",
+    "luggage": "Koper",
+    "with_driver": "Termasuk Driver & BBM"
+  },
+  "footer": {
+    "tagline": "World-Class Hospitality, Luxury Transportation & Bespoke Travel Experiences in Yogyakarta.",
+    "quick_links": "Tautan Cepat",
+    "services_title": "Layanan Utama",
+    "contact_title": "Kantor & Operasional",
+    "copyright": "Hak Cipta Dilindungi."
+  }
+}

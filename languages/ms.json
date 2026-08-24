@@ -1,0 +1,44 @@
+{
+  "nav": {
+    "home": "Laman Utama",
+    "services": "Perkhidmatan",
+    "packages": "Pakej Lawatan",
+    "fleet": "Kenderaan",
+    "articles": "Panduan",
+    "about": "Tentang Kami",
+    "contact": "Hubungi",
+    "book_now": "Tempah Sekarang"
+  },
+  "hero": {
+    "tagline": "Pengangkutan & Hospitaliti Premium",
+    "headline": "Terokai Yogyakarta dengan Keselesaan Terbaik",
+    "subheadline": "Kenderaan bersih terpelihara, pemandu tempatan berpengalaman, dan jaminan ketepatan masa untuk percutian anda.",
+    "cta_primary": "Tempah Perjalanan",
+    "cta_secondary": "Lihat Pakej"
+  },
+  "trust": {
+    "clean_fleet_title": "Kenderaan Bersih & Selesa",
+    "clean_fleet_desc": "Diselenggara berkala, penghawa dingin sejuk dan selesa.",
+    "driver_title": "Pemandu Beretika",
+    "driver_desc": "Sopan, tepati masa, dan mahir selok-belok laluan Jogja.",
+    "transparency_title": "Harga Telus",
+    "transparency_desc": "Kadar harga tetap tanpa caj tersembunyi."
+  },
+  "forms": {
+    "full_name": "Nama Penuh",
+    "email": "Alamat Emel",
+    "phone": "Nombor WhatsApp / Telefon",
+    "service_select": "Pilihan Perkhidmatan",
+    "pickup_date": "Tarikh Mengambil",
+    "pickup_time": "Masa Mengambil",
+    "duration_days": "Tempoh (Hari)",
+    "pickup_location": "Lokasi Mengambil (Hotel/Lapangan Terbang)",
+    "notes": "Permintaan Khas",
+    "submit_booking": "Hantar Permintaan Tempahan",
+    "submit_message": "Hantar Mesej"
+  },
+  "footer": {
+    "about_text": "Perkhidmatan sewa kereta persendirian dan pakej pelancongan di Yogyakarta dengan layanan hospitaliti terbaik.",
+    "copyright": "Hak Cipta Terpelihara."
+  }
+}
